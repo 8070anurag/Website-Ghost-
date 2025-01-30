@@ -216,10 +216,10 @@ section{
     .navlist{
         position: absolute;
         top: 100%;
-        right:-100%;
+        right:0%;
         width:300px;
-        height: 30px;
-        background: #4d9559;
+        height: 50vh;
+        background: #8f58bed4;
         display: flex;
         align-items: center;
         flex-direction: column;
